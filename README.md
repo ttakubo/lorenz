@@ -5,12 +5,13 @@ Jupyternotebookで記載．
 3Dでの表示．
 
 ## できていないこと
-<li> 3D表示での逐次アニメーション．<br>
-<li>gif，　ムービー作成ができていない．<br>
+<li> 3D表示での逐次アニメーション．<br>
+<li>gif，ムービー作成ができていない．<br>
 <li>ffmpegをwindowsに入れて連携できていない
 
-2Dでの表示画面
+2Dでの表示画面<br>
 <img src="./lorenz2d.png">
 
-3Dでの表示画面
+3Dでの表示画面<br>
 <img src="./lorenz3d.png">
+
