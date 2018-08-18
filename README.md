@@ -16,6 +16,6 @@ Jupyternotebookで記載．
 <img src="./lorenz3d.png">
 
 ローレンツ方程式<br>
-<img src="https://latex.codecogs.com/gif.latex?¥frac{dx}/{dt}=-px+p" /><br>
-<img src="https://latex.codecogs.com/gif.latex?¥frac{dy}{dt}=-xz+rx-y" /><br>
-<img src="https://latex.codecogs.com/gif.latex?¥frac{dz}{dt}=xy-bz" /><br>
+<img src="https://latex.codecogs.com/gif.latex?dx/dt=-px+p" /><br>
+<img src="https://latex.codecogs.com/gif.latex?dy/dt=-xz+rx-y" /><br>
+<img src="https://latex.codecogs.com/gif.latex?dz/dt=xy-bz" /><br>
