@@ -15,3 +15,4 @@ Jupyternotebookで記載．
 3Dでの表示画面<br>
 <img src="./lorenz3d.png">
 
+$$¥frac{1}{2}$$
