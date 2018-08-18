@@ -17,8 +17,5 @@ Jupyternotebookで記載．
 
 ローレンツ方程式<br>
 <img src="https://latex.codecogs.com/gif.latex?¥frac{dx}/{dt}=-px+p" /><br>
-
-
-$¥y$
-$dy/dt=-xz+rx-y$<br>
-$dz/dt=xy-bz$<br>
+<img src="https://latex.codecogs.com/gif.latex?¥frac{dy}{dt}=-xz+rx-y" /><br>
+<img src="https://latex.codecogs.com/gif.latex?¥frac{dz}{dt}=xy-bz" /><br>
