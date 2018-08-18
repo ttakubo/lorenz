@@ -15,4 +15,10 @@ Jupyternotebookで記載．
 3Dでの表示画面<br>
 <img src="./lorenz3d.png">
 
-$$¥frac{1}{2}$$
+ローレンツ方程式<br>
+<img src="https://latex.codecogs.com/gif.latex?¥frac{dx}/{dt}=-px+p" /><br>
+
+
+$¥y$
+$dy/dt=-xz+rx-y$<br>
+$dz/dt=xy-bz$<br>
