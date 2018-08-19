@@ -1,14 +1,15 @@
 # lorenz
-pythonを使ったローレンツ方程式の練習
-Jupyternotebookで記載．
-2Dの表示，アニメーション．
-3Dでの表示．
+pythonを使ったローレンツ方程式の練習<br>
+Jupyternotebookで記載．<br>
+2Dの表示，アニメーション．<br>
+3Dでの表示．<br>
 
 ## できていないこと
 <li> 3D表示での逐次アニメーション．<br>
 <li>gif，ムービー作成ができていない．<br>
 <li>ffmpegをwindowsに入れて連携できていない
 
+# 実行例
 2Dでの表示画面<br>
 <img src="./lorenz2d.png">
 
